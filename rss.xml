@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[40 Days Memorial]]></title>
+        <description><![CDATA[40 Days Memorial]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 May 2016 07:17:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4e58924-3a88-472a-9bb9-3d6945374ea1.jpg">]]></description>
+            <link>undefined617263e7-fb50-459b-8946-26de3b1b7580/index.html</link>
+            <guid isPermaLink="false">617263e7-fb50-459b-8946-26de3b1b7580</guid>
+            <pubDate>Fri, 27 May 2016 07:16:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
