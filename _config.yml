@@ -1,0 +1,28 @@
+name: 40 Days Memorial
+favicon: null
+layout_spectrum: 0.27742416877299547
+typography_spectrum: 0.00791781721636653
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5864066274370998
+  lightness: 0.7087805725168437
+  saturation: 0.2979840950574726
+  rhythmicContrast: 0.6595961637794971
+purpose: []
